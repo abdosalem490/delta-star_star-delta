@@ -1,0 +1,5 @@
+﻿  Solver.cpp
+C:\Users\abdo\Downloads\Circuits-Solver-master\Circuits-Solver-master\Src\Circuits\Solver.cpp(156,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abdo\Downloads\Circuits-Solver-master\Circuits-Solver-master\Src\Circuits\Solver.cpp(165,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abdo\Downloads\Circuits-Solver-master\Circuits-Solver-master\Src\Circuits\Solver.cpp(192,23): warning C4018: '<': signed/unsigned mismatch
+  Circuits.vcxproj -> C:\Users\abdo\Downloads\Circuits-Solver-master\Circuits-Solver-master\Src\Debug\Circuits.exe

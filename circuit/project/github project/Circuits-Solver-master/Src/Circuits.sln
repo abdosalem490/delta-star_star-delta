@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Circuits", "Circuits\Circuits.vcxproj", "{3420B93C-2197-4CF5-895D-B9B0245484B8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{39A3100E-FEEE-493A-A402-7B809724199B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3420B93C-2197-4CF5-895D-B9B0245484B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3420B93C-2197-4CF5-895D-B9B0245484B8}.Debug|Win32.Build.0 = Debug|Win32
+		{3420B93C-2197-4CF5-895D-B9B0245484B8}.Release|Win32.ActiveCfg = Release|Win32
+		{3420B93C-2197-4CF5-895D-B9B0245484B8}.Release|Win32.Build.0 = Release|Win32
+		{39A3100E-FEEE-493A-A402-7B809724199B}.Debug|Win32.ActiveCfg = Debug
+		{39A3100E-FEEE-493A-A402-7B809724199B}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CE8A499-AC5B-4B0A-813F-B4227BBA6839}
+	EndGlobalSection
+EndGlobal

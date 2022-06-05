@@ -1,0 +1,9 @@
+﻿  Solver.cpp
+C:\Users\abdo\Downloads\Circuits-Solver-master\Circuits-Solver-master\Src\Circuits\Solver.cpp(156,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abdo\Downloads\Circuits-Solver-master\Circuits-Solver-master\Src\Circuits\Solver.cpp(165,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abdo\Downloads\Circuits-Solver-master\Circuits-Solver-master\Src\Circuits\Solver.cpp(192,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5952 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Circuits.vcxproj -> C:\Users\abdo\Downloads\Circuits-Solver-master\Circuits-Solver-master\Src\Release\Circuits.exe
